@@ -1,0 +1,159 @@
+body{
+    background-color:aqua;
+}
+
+.menu{
+    padding-top: 25px;
+
+}
+
+
+
+.menu > a{
+    float: right;
+    padding-right: 15px;
+
+    
+}
+
+.imginicio{
+    padding: 30px;
+    justify-content: center;
+    
+}
+
+.contenido{
+    padding: 25px;
+}
+
+.encabezado{
+    padding-bottom: 20px;
+    color:navy;
+    justify-content: center;
+    text-align: center;
+}
+
+.contenido > .encabezado > span{
+    color:darkslategrey;
+    font-size: 34px;
+    text-align: center;
+    
+}
+
+.contenido{
+    padding: 25px;
+}
+
+
+.cuadros{
+    padding: 40px;
+    background-color: grey;
+    
+}
+
+.rutas, .ubitimerel, .recorridos, .rutasfavs{
+    padding: 1.5px;
+   border: none;
+    
+}
+
+.textfb{
+    background-color: darkseagreen;
+    padding: 15px;
+    margin: 20px;
+    color: black;
+    font-size: 15px;
+    border-radius: 12px;
+}
+
+form , p{
+    padding-top: 20px;
+}
+
+.botones{
+    justify-content: center;
+    padding: 30px;
+}
+
+.prc1{
+    background-color: #424242;
+    padding: 15px;
+    border-radius: 15px;
+    margin-bottom: 25px;
+    color: white;
+}
+
+.prc2{
+
+    padding: 15px;
+    border-radius: 15px;
+    background-color: #666f88;
+    color: white;
+    margin-bottom: 25px;
+    
+}
+
+.redes{
+    float: right;
+    padding: 10px;
+    
+}
+
+.tablarutas{
+    border-radius: 15px;
+}
+
+.colormapascarrusel{
+    color: rgb(37, 37, 37);
+}
+
+.infoubitr{
+    margin: 20px;
+}
+
+.rectext{
+    background-color: #e3d7bf;
+    color: #553d2a;
+    border-radius: 20px;
+    padding: 10px;
+    border-color: #553d2a;
+    margin-bottom: 20px;
+    border: solid 1px;
+}
+
+.inforutasfavs{
+    text-align: center;
+    margin: 30px;
+}
+
+.menusesion{
+    border: solid 1px;
+    margin: 20px;
+    padding: 20px;
+    justify-content: center;
+    border-radius: 15px;
+
+}
+
+.msjsi{
+    text-align: center;
+    margin: 30px;
+}
+
+.notisc1{
+    border: solid 1px;
+    border-radius: 15px;
+    padding: 15px;
+    margin-bottom: 20px;
+    background-color: #b4d3b2;
+
+}
+
+.notisc2{
+    border: solid 1px;
+    border-radius: 15px;
+    padding: 15px;
+    margin-bottom: 20px;
+    background-color: #b2dafa;
+}
+
